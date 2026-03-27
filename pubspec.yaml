@@ -1,0 +1,29 @@
+name: flutter_application_1
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  path_provider: ^2.0.15
+  connectivity_plus: ^5.0.2
+  uuid: ^4.3.3
+  firebase_core: ^3.0.0
+  cloud_firestore: ^5.0.0
+  firebase_auth: ^5.0.0 
+  change_app_package_name: ^1.5.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true

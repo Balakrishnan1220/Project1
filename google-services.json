@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "772078999949",
+    "project_id": "bkinterview-63524",
+    "storage_bucket": "bkinterview-63524.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772078999949:android:f60fb92aa9ed43e9d485c4",
+        "android_client_info": {
+          "package_name": "com.balakrishnan.interview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH8l2CTRa4lPBZm4TycFONWKcuT4khQM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
